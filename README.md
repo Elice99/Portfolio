@@ -1,7 +1,7 @@
 
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
-Hi! I'm Elisha Bassey
+Hi! I'm Elisha Bassey😎
 _Data Analyst || Uncovering Insights to Drive Growth_
 I'm passionate about helping organizations make informed decisions with data-driven solutions.
 
@@ -58,7 +58,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:basseyelisha99@gmail.com">basseyelisha99@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
