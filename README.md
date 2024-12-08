@@ -4,6 +4,7 @@
 Hi! I'm Elisha Bassey😎
 
 _Data Analyst || Uncovering Insights to Drive Growth_
+
 I'm passionate about helping organizations make informed decisions with data-driven solutions.
 
 
