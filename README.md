@@ -19,8 +19,7 @@ I'm passionate about helping organizations make informed decisions with data-dri
 
 **- ✅ - Power BI (data visualization, reporting) 
 
-**- ✅- Python (data manipulation, analysis 
-
+**- ✅- Python (data manipulation, analysis)
 
 
 <!--Section 2: List 3-4 key projects-->
