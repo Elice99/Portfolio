@@ -30,7 +30,7 @@ I'm passionate about helping organizations make informed decisions with data-dri
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
 ![image](Screenshot 2025-01-22 142103.png)
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+<a href="Customer Retention and risk analysis.pdf">Download the Report here (pdf file)</a>
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
