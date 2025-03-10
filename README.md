@@ -34,8 +34,7 @@ I'm passionate about helping organizations make informed decisions with data-dri
 
 In today’s competitive business landscape, customer retention is a critical component of any successful growth strategy. Acquiring new customers can be costly, more expensive than retaining existing ones.
 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://www.linkedin.com/pulse/patients-emergency-room-visit-report-elice-bassey-gqeff)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
