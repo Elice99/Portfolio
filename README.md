@@ -27,12 +27,14 @@ I'm passionate about helping organizations make informed decisions with data-dri
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Customer Rentention and Risk Analysis.**
 
 ![image](Screenshot 2025-01-22 142103.png)
 <a href="Customer Retention and risk analysis.pdf">Download the Report here (pdf file)</a>
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+In today’s competitive business landscape, customer retention is a critical component of any successful growth strategy. Acquiring new customers can be costly, more expensive than retaining existing ones.
+![image](https://github.com/user-attachments/assets/b0e0cc96-2940-469c-bd2d-be9589bd0e72)
+.
 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
