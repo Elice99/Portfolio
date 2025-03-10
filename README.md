@@ -3,9 +3,7 @@
 ## ABOUT ME
 Hi! I'm Elisha Bassey😎
 
-_Data Analyst || Uncovering Insights to Drive Growth_
-
-I'm passionate about helping organizations make informed decisions with data-driven solutions.
+A Data-driven professional with expertise in data analysis, visualization and machine learning, dedicated to extracting insights that inform business success.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -46,15 +44,6 @@ The emergency room dashboard report provides critical insights into patient visi
 [Read More](https://www.linkedin.com/pulse/patients-emergency-room-visit-report-elice-bassey-gqeff)
 
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
-
-
 ## CONTACT DETAILS
 
 *Let’s connect and see how we can make a difference together!*
@@ -92,5 +81,5 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 
 
 
-Raw File by Anietie Etuk.txt
-Displaying Raw File by Anietie Etuk.txt.
+Raw File by Elisha Bassey.txt
+Displaying Raw File by Elisha Bassey.txt.
