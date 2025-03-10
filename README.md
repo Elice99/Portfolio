@@ -71,7 +71,7 @@ The emergency room dashboard report provides critical insights into patient visi
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="http://tiktok.com/@elice_d_analyst">Watch my tutorials on YouTube</a></td>
+      <td><a href="http://tiktok.com/@elice_d_analyst">Watch my tiktok Contents</a></td>
     </tr>
   </tbody>
 </table>
