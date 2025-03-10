@@ -13,13 +13,13 @@ I'm passionate about helping organizations make informed decisions with data-dri
 
 *As a Data Analyst at RespTechHR, I have expertise in the following.*
 
-**- ✅ - Microsoft Excel (advanced formulas, pivot tables, dashboards)
+**- ✅ - Programming Languages: SQL and Python
+          
+**- ✅ - Data analysis and Visualization tools: Excel and PowerBI
 
-**- ✅ - SQL (querying, data modeling)
+**- ✅ - Machine Learning and Modeling: Sckit-Learn and TensorFlow 
 
-**- ✅ - Power BI (data visualization, reporting) 
-
-**- ✅- Python (data manipulation, analysis)
+**- ✅- Database management: SQL
 
 
 <!--Section 2: List 3-4 key projects-->
