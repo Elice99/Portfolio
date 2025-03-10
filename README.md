@@ -34,15 +34,17 @@ I'm passionate about helping organizations make informed decisions with data-dri
 
 In today’s competitive business landscape, customer retention is a critical component of any successful growth strategy. Acquiring new customers can be costly, more expensive than retaining existing ones.
 
+
+
+**Patients Emergency Room visit Report.**
+
+![image](Screenshot 2025-03-10 154350.png)
+<a href="Customer Retention and risk analysis.pdf">Download the Report here (pdf file)</a>
+
+The emergency room dashboard report provides critical insights into patient visit patterns, satisfaction levels, and wait times. By addressing the key areas of improvement identified in this report, ER operations can be significantly enhanced.
+
 [Read More](https://www.linkedin.com/pulse/patients-emergency-room-visit-report-elice-bassey-gqeff)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](2 anietie etuk data analytics sales project.jpg)
-
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
