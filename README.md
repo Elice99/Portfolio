@@ -29,7 +29,7 @@ A Data-driven professional with expertise in data analysis, visualization and ma
 
 ![image](/powerbi/savvyEcomdashboard.png)
 
-In today’s competitive business landscape, customer retention is a critical component of any successful growth strategy. Acquiring new customers can be costly, more expensive than retaining existing ones.
+This project focuses on analyzing inventory logs to monitor stock movements, detect stock-outs, track manual adjustments, and optimize inventory planning.
 
 **Customer Rentention and Risk Analysis.**
 
