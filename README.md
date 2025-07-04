@@ -23,14 +23,13 @@ A Data-driven professional with expertise in data analysis, visualization and ma
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
+*A glimpse of some of the projects I've been working on.*
+
 **Inventory Log Analysis.**
 
-![image](Screenshot 2025-01-22 142103.png)
-<a href="Customer Retention and risk analysis.pdf">Download the Report here (pdf file)</a>
+![image](/powerbi/savvyEcomdashboard.png)
 
 In today’s competitive business landscape, customer retention is a critical component of any successful growth strategy. Acquiring new customers can be costly, more expensive than retaining existing ones.
-
-*A glimpse of some of the projects I've been working on.*
 
 **Customer Rentention and Risk Analysis.**
 
