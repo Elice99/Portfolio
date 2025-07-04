@@ -28,8 +28,9 @@ A Data-driven professional with expertise in data analysis, visualization and ma
 **Inventory Log Analysis.**
 
 ![image](/powerbi/savvyEcomdashboard.png)
-[Read More](https://github.com/Elice99/inventory-log-analysis-.git)
+
 This project focuses on analyzing inventory logs to monitor stock movements, detect stock-outs, track manual adjustments, and optimize inventory planning.
+[Read More](https://github.com/Elice99/inventory-log-analysis-.git)
 
 **Customer Rentention and Risk Analysis.**
 
