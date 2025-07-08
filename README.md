@@ -43,7 +43,7 @@ In today’s competitive business landscape, customer retention is a critical co
 
 **Patients Emergency Room visit Report.**
 
-![image](Screenshot 2025-03-10 154350.png)
+![image](/PatientScreenshot 2025-03-10 154350.png)
 <a href="PatientERvisit report.pdf">Download the Report here (pdf file)</a>
 
 The emergency room dashboard report provides critical insights into patient visit patterns, satisfaction levels, and wait times. By addressing the key areas of improvement identified in this report, ER operations can be significantly enhanced.
