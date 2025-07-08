@@ -34,7 +34,7 @@ This project focuses on analyzing inventory logs to monitor stock movements, det
 
 **Customer Rentention and Risk Analysis.**
 
-![image](./CustomerRetentionAndRiskAnalysis/Screenshot 2025-01-22 142103.png)
+![image](/Customer_retention/Screenshot 2025-01-22 142103.png)
 <a href="Customer Retention and risk analysis.pdf">Download the Report here (pdf file)</a>
 
 In today’s competitive business landscape, customer retention is a critical component of any successful growth strategy. Acquiring new customers can be costly, more expensive than retaining existing ones.
